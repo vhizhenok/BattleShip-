@@ -1,3 +1,6 @@
+/*
+	Autor Vlad
+*/
 package arei.sb.seafight;
 import com.mysql.fabric.jdbc.FabricMySQLDriver;
 import java.sql.*;
